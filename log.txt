@@ -2,4 +2,6 @@
 
 2 commit - exclui commit
 
-3 commit deu certo aeee
+Funcionou git push -f origin HEAD^:master
+
+4 commit - teste para excluir mais de 1 commit 
