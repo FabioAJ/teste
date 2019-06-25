@@ -2,6 +2,10 @@
 
 2 commit - exclui commit
 
-Funcionou git push -f origin HEAD^:master
+Funcionou = git push -f origin HEAD^:master
 
 4 commit - teste para excluir mais de 1 commit 
+
+Funcionou denovo = git push -f origin HEAD^^^:master
+
+^^^^^ - muda numero de commits a ser apagado
